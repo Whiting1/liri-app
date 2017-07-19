@@ -1,0 +1,121 @@
+{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:45:23 +0000 2017",
+  "tweet": "RT @arstechnica: Security experts from Google, Facebook, Crowdstrike want to save US elections https://t.co/fOfrqHZNTv by @cfarivar"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:45:12 +0000 2017",
+  "tweet": "RT @arstechnica: Pressure mounting for US government to examine Amazon-Whole Foods accord https://t.co/fQyvjm2Exo by @dmkravets"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:45:01 +0000 2017",
+  "tweet": "RT @arstechnica: #NetNeutrality won't be discussed as heavily but just as important tomorrow, and the next day, and the next day... https:/…"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:42:18 +0000 2017",
+  "tweet": "RT @Brandonwoelfel: \"How was your day?\"\n\nMe: I became a meme"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:44:03 +0000 2017",
+  "tweet": "RT @thepIugformemes: Updated Meme Calendar https://t.co/5TUTE1ykGz"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:42:37 +0000 2017",
+  "tweet": "RT @heartlesswes: @JamesVftMakeup @eric__ka @lexdanielled @Jonbinos Did my meme just get...meme’d https://t.co/mQNGvu2OOr"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:41:25 +0000 2017",
+  "tweet": "RT @NinetyFive_UK: Statistic of inequality:\nThe 8 richest people in the world have the same wealth as the poorest 50%.\n#TuesdayThoughts\nhtt…"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:39:45 +0000 2017",
+  "tweet": "RT @RobertIger: Disney Legend #stanlee https://t.co/YE0tshWAUv"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:39:19 +0000 2017",
+  "tweet": "RT @TwitterMoments: Now you see it ... now you see it again. https://t.co/fJhlSlSqgv"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:37:16 +0000 2017",
+  "tweet": "RT @funder: #NeverRepeal now trending #30—folks in #TheResistance take some time &amp; tweet out &amp; RT others &amp; let's push it to #1! We got this…"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:36:13 +0000 2017",
+  "tweet": "RT @VisitVentura: 🌊It’s hard to not love this coast😍 https://t.co/g0Eo2NXNBP"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:35:24 +0000 2017",
+  "tweet": "RT @lobcity_03: That moment when the first preseason game is in less then a month @AtlantaFalcons @juliojones_11 https://t.co/sP6YtX0jM3"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:40:16 +0000 2017",
+  "tweet": "RT @ComplexPop: James Franco and Seth Rogen's latest joint 'The Disaster Artist' looks low key hilarious 👀 https://t.co/as245dea44"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:35:01 +0000 2017",
+  "tweet": "RT @AtlantaFalcons: Ready for #MattyIce❄️ to make many more big-time plays in 2017. \n\n#RiseUp https://t.co/iLziCJSVUM"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:32:53 +0000 2017",
+  "tweet": "RT @SportsCenter: The Detroit Lions extended an invitation to former WR Calvin Johnson to the team's training camp next month. https://t.co…"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:40:35 +0000 2017",
+  "tweet": "RT @ChrisJZullo: Government should protect people and regulate corporations, not protect corporations and regulate people. #TuesdayThoughts"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:31:36 +0000 2017",
+  "tweet": "RT @SportsCenter: Aaron Judge has an absolute cannon for an arm. 💪 https://t.co/0T9OHIphlW"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:30:27 +0000 2017",
+  "tweet": "RT @Delta: Get up in the air and get out of town. https://t.co/juA7aSC2Vy"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:35:13 +0000 2017",
+  "tweet": "RT @juliojones_11: Got that ATL lIfe https://t.co/g04VU13nYr"
+}{
+  "command": "my-tweets",
+  "requested": "Tuesday, July 18, 2017 6:27 PM",
+  "user": "Baron_Von_Tech",
+  "posted": "Tue Jul 18 19:31:56 +0000 2017",
+  "tweet": "RT @SportsCenter: Living above the rim. #SCtop10 https://t.co/wAeDQ8WBgm"
+}
